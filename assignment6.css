@@ -1,0 +1,254 @@
+.header{
+    /* border: 5px solid red; */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    /* border: 5px solid pink; */
+    position: relative;
+    width: 7em;
+    margin-right: 3em;
+    
+}
+
+.navbar{
+    /* border: 5px solid yellow; */
+    position: relative;
+    display: flex;
+    width: 90%;
+    margin-left: 2em;
+    justify-content: center;
+    align-items: center;
+}
+
+.items{
+    /* border: 5px solid blue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.navitem{
+    list-style: none;
+    cursor: pointer;
+    transition: 2s;
+    font-family: Manrope;
+    padding: 1em;
+}
+
+.demobutton1{
+    /* border: 5px solid blue; */
+    height: 3.5em;
+    border-radius: 10px;
+    width: 13em;
+    border-color: rgba(111, 194, 71, 1);
+    background-color: rgba(111, 194, 71, 1);
+    margin-left: 9em;
+}
+
+.img{
+    /* border: 5px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1{
+    /* border: 5px solid blue; */
+    width: 100%;
+    margin-top: 2em;
+}
+
+.heading{
+    margin-top: 1em;
+    /* border: 5px solid blue; */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 18em;
+    flex-direction: column;
+    padding-top: 1em;
+}
+
+.head1{
+    /* border: 5px solid orange; */
+    width: 15em;
+    display: flex;
+    justify-items: center;
+    align-content: center;
+    /* margin: auto; */
+}
+
+.paragraph1{
+    /* border: 5px solid blue; */
+    width: 34em;
+    height: 10em;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    
+}
+
+.buttondiv{
+    /* border: 5px solid pink; */
+    width: 23.5em;
+  
+    
+}
+
+.button1{
+    /* border: 5px solid red; */
+    height: 3.5em;
+    border-radius: 10px;
+    width: 13em;
+    background-color: rgba(111, 194, 71, 1);
+    border-color: rgba(111, 194, 71, 1);
+}
+
+.button2{
+    /* border: 5px solid yellowgreen; */
+    margin-right: 0%;
+    height: 3.5em;
+    border-radius: 10px;
+    width: 13em;
+    border-color: rgba(111, 194, 71, 1);
+    background-color: #F5F5F5;
+    
+}
+
+.heading1{
+    /* border: 5px solid purple; */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.heading2{
+    /* border: 5px solid yellow; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imgdiv{
+    /* border: 5px solid red; */
+    display: grid;
+    width: 80%;
+    padding-left: 6em;
+    grid-template-columns: auto auto auto auto;
+    
+}
+
+.section2{
+    /* border: 5px solid blue; */
+    background-color: rgba(17, 17, 17, 1);
+    color: white;
+    justify-content: center;
+    width: 90%;
+    margin-left: 5em;
+    display: flex;
+    flex-direction: column;
+    height:20em;
+}
+
+.container1{
+    /* border: 5px solid pink; */
+    width: 44%;
+    margin-left: 8em;
+}
+
+.container2{
+    /* border: 5px solid red; */
+    display: flex;
+    justify-content: center;
+   
+}
+
+.secure{
+    /* border: 5px solid red; */
+    width: 18em;
+   
+}
+.reliable{
+    /* border: 5px solid red; */
+    width: 20em;
+}
+.dedicated{
+    /* border: 5px solid red; */
+    width: 16em;
+}
+
+.lastsection{
+    /* border: 5px solid pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.lastimg{
+    /* border: 5px solid yellow; */
+    height: 40em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-right: 14em;
+}
+
+.lastdiv{
+    /* border: 5px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 40em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-left: 14em;
+
+}
+
+.lastdiv1{
+    /* border: 5px solid yellow; */
+    width: 22em;
+    height: 11em;
+}
+
+.lastdiv2{
+    /* border: 5px solid peru; */
+    width: 18em;
+    height: 11em;
+}
+
+.lastdiv3{
+    /* border: 5px solid red; */
+    width: 18em;
+    height: 11em;
+}
+
+.lastdiv4{
+    /* border: 5px solid blue; */
+    width: 18em;
+    height: 11em;
+}
+
+.lastbutton{
+    /* border: 5px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lastbutton1{
+    /* border: 5px solid red; */
+    height: 3.5em;
+    border-radius: 10px;
+    width: 13em;
+    background-color: rgba(111, 194, 71, 1);
+    border-color: rgba(111, 194, 71, 1);
+}
